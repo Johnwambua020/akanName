@@ -22,7 +22,13 @@ This is a web application that fetches the date, month and year when you were bo
 - Bootstrap 4
 
 
+
+
 # BDD
+
+<<img src="images/home.jpg" alt="picture">
+The screenshot below explains more on the details you have to put in order for you to get the correct name and day.
+
 
 ### The Akan name of a person will be determined by:
 
