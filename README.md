@@ -42,6 +42,10 @@ This is a web application that fetches the date, month and year when you were bo
 - You can find me via email <a href ="wambuajohn020@gmail.com">wambuajohn020@gmail.com<br>
 call 0717390354
 
+## Livelink
+
+https://johnwambua020.github.io/project2/
+
 # Licence
 
 - [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
