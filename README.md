@@ -46,7 +46,7 @@ call 0717390354
 
 - https://johnwambua020.github.io/project2/
 
-# Licence
+# licence
 
 - [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
