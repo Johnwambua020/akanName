@@ -44,7 +44,7 @@ call 0717390354
 
 ## Livelink
 
-https://johnwambua020.github.io/project2/
+- https://johnwambua020.github.io/project2/
 
 # Licence
 
